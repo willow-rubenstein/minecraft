@@ -1,372 +1,164 @@
-[02:14:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:14:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:14:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:14:19] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:14:19] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:14:19] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:14:19] [ServerMain/INFO]: Reloading ResourceManager: Default
-[02:14:20] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:14:20] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[02:14:23] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[02:14:23] [Server thread/INFO]: Loading properties
-[02:14:23] [Server thread/INFO]: Default game type: SURVIVAL
-[02:14:23] [Server thread/INFO]: Generating keypair
-[02:14:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:14:24] [Server thread/INFO]: Using epoll channel type
-[02:14:24] [Server thread/INFO]: Preparing level "world"
-[02:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:46] [Worker-Main-2/INFO]: Preparing spawn area: 69%
-[02:14:47] [Server thread/INFO]: Time elapsed: 22634 ms
-[02:14:47] [Server thread/INFO]: Done (22.810s)! For help, type "help"
-[02:16:45] [User Authenticator #1/INFO]: UUID of player malevtuber is 59ac4b1a-b22b-4314-a985-85015b1b7cfd
-[02:16:45] [Server thread/INFO]: malevtuber[/68.23.68.50:52283] logged in with entity id 275 at (96.16568944408777, 55.0, 134.72697084896225)
-[02:16:45] [Server thread/INFO]: malevtuber joined the game
-[02:17:19] [Server thread/INFO]: [malevtuber: Set the time to 1000]
-[02:18:00] [Server thread/INFO]: malevtuber has made the advancement [Monster Hunter]
-[02:20:19] [Server thread/INFO]: malevtuber lost connection: Disconnected
-[02:20:19] [Server thread/INFO]: malevtuber left the game
-[10:43:14] [User Authenticator #2/INFO]: UUID of player malefic_music is 7940e1b8-f7fa-45a0-9cf4-428be3dd09c4
-[10:43:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f2811b1[id=7940e1b8-f7fa-45a0-9cf4-428be3dd09c4,name=malefic_music,properties={textures=[com.mojang.authlib.properties.Property@28680a14]},legacy=false] (/173.30.241.229:61172): You are not white-listed on this server!
-[10:43:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f2811b1[id=7940e1b8-f7fa-45a0-9cf4-428be3dd09c4,name=malefic_music,properties={textures=[com.mojang.authlib.properties.Property@28680a14]},legacy=false] (/173.30.241.229:61172) lost connection: You are not white-listed on this server!
-[10:43:14] [Server thread/WARN]: handleDisconnection() called twice
-[10:45:03] [User Authenticator #3/INFO]: UUID of player malefic_music is 7940e1b8-f7fa-45a0-9cf4-428be3dd09c4
-[10:45:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@35942998[id=7940e1b8-f7fa-45a0-9cf4-428be3dd09c4,name=malefic_music,properties={textures=[com.mojang.authlib.properties.Property@466ba4b8]},legacy=false] (/173.30.241.229:52700): You are not white-listed on this server!
-[10:45:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@35942998[id=7940e1b8-f7fa-45a0-9cf4-428be3dd09c4,name=malefic_music,properties={textures=[com.mojang.authlib.properties.Property@466ba4b8]},legacy=false] (/173.30.241.229:52700) lost connection: You are not white-listed on this server!
-[10:45:03] [Server thread/WARN]: handleDisconnection() called twice
-[13:02:05] [User Authenticator #4/INFO]: UUID of player malevtuber is 59ac4b1a-b22b-4314-a985-85015b1b7cfd
-[13:02:05] [Server thread/INFO]: malevtuber[/68.23.68.50:55677] logged in with entity id 878 at (51.7749774587669, 66.0, 114.5718162027254)
-[13:02:05] [Server thread/INFO]: malevtuber joined the game
-[13:02:14] [Server thread/INFO]: [malevtuber: Whitelist is now turned off]
-[13:03:17] [User Authenticator #5/INFO]: UUID of player malefic_music is 7940e1b8-f7fa-45a0-9cf4-428be3dd09c4
-[13:03:17] [Server thread/INFO]: malefic_music[/173.30.241.229:55190] logged in with entity id 1041 at (108.5, 63.0, 136.5)
-[13:03:17] [Server thread/INFO]: malefic_music joined the game
-[13:03:22] [Server thread/INFO]: <malevtuber> :OOOOOOOOOOOOOOOOOO
-[13:03:43] [Server thread/INFO]: <malefic_music> OwO
-[13:03:46] [Server thread/INFO]: [malevtuber: Teleported malevtuber to malefic_music]
-[13:03:54] [Server thread/INFO]: <malevtuber> WHHHH
-[13:03:58] [Server thread/INFO]: <malevtuber> U HAVE VTUBER SKIN
-[13:04:09] [Server thread/INFO]: <malefic_music> mmhmm! cool, right?
-[13:04:16] [Server thread/INFO]: <malevtuber> soo cool :O
-[13:04:23] [Server thread/INFO]: <malevtuber> I just reskinned something else hah
-[13:04:29] [Server thread/INFO]: <malefic_music> XD
-[13:04:29] [Server thread/INFO]: <malevtuber> it fits me well enough
-[13:04:31] [Server thread/INFO]: <malevtuber> lmao
-[13:04:48] [Server thread/INFO]: <malefic_music> das a hole
-[13:04:52] [Server thread/INFO]: <malevtuber> i don't remember where I set my home lol
-[13:04:57] [Server thread/INFO]: [malevtuber: Set own game mode to Spectator Mode]
-[13:05:02] [Server thread/INFO]: <malefic_music> lol
-[13:05:11] [Server thread/INFO]: [malevtuber: Set own game mode to Survival Mode]
-[13:05:14] [Server thread/INFO]: <malevtuber> found it
-[13:05:17] [Server thread/INFO]: [malevtuber: Teleported 2 entities to malevtuber]
-[13:05:28] [Server thread/INFO]: <malefic_music> oooh
-[13:05:30] [Server thread/INFO]: <malevtuber> do u need anything??
-[13:05:32] [Server thread/INFO]: <malevtuber> wood?
-[13:05:37] [Server thread/INFO]: <malevtuber> oh shit btw spawn protection is off
-[13:05:43] [Server thread/INFO]: <malevtuber> I wonder if I can turn it off via here tho
-[13:06:12] [Server thread/INFO]: <malevtuber> nope
-[13:06:15] [Server thread/INFO]: <malefic_music> if i can't bui;d it AT spawn, i'll build it nearby
-[13:06:45] [Server thread/INFO]: <malefic_music> we can like... use it as a central hub. like a tavern in D&D games
-[13:07:00] [Server thread/INFO]: <malevtuber> :O
-[13:07:05] [Server thread/INFO]: <malevtuber> that sounds cool!!
-[13:07:09] [Server thread/INFO]: <malevtuber> here hold on
-[13:07:14] [Server thread/INFO]: <malevtuber> lemme teleport somewhere
-[13:07:17] [Server thread/INFO]: [malevtuber: Set own game mode to Creative Mode]
-[13:07:29] [Server thread/INFO]: [malevtuber: Teleported malevtuber to 1000.500000, 1000.000000, 1000.500000]
-[13:07:32] [Server thread/INFO]: <malefic_music> MOD POWERS, ACTIVATE!
-[13:07:32] [Server thread/WARN]: malevtuber moved too quickly! 0.0,-10.806526110009258,0.0
-[13:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
-[13:08:02] [Server thread/WARN]: malevtuber moved too quickly! -0.020574924013772034,0.0,-10.886149271455793
-[13:08:19] [Server thread/INFO]: [malevtuber: Teleported malevtuber to 1000.500000, 100.000000, 10000.500000]
-[13:08:24] [Server thread/WARN]: malevtuber moved too quickly! 0.0,-10.090520457159002,0.0
-[13:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind
-[13:08:33] [Server thread/INFO]: <malevtuber> found something
-[13:08:38] [Server thread/INFO]: [malevtuber: Teleported 2 entities to malevtuber]
-[13:08:49] [Server thread/INFO]: <malevtuber> this good?
-[13:09:00] [Server thread/INFO]: <malevtuber> kinda sucks I liked the ravine ngl
-[13:09:00] [Server thread/INFO]: <malefic_music> amazing
-[13:09:26] [Server thread/INFO]: [malevtuber: Set the time to 1000]
-[13:09:40] [Server thread/INFO]: <malefic_music> here, we dont risk people not seeing the hole tho
-[13:09:47] [Server thread/INFO]: <malevtuber> ah yes
-[13:09:50] [Server thread/INFO]: <malevtuber> "the hole
-[13:10:03] [Server thread/INFO]: malefic_music was slain by Zombie
-[13:10:08] [Server thread/INFO]: [malevtuber: Set the weather to clear]
-[13:10:12] [Server thread/INFO]: [malevtuber: Teleported 2 entities to malevtuber]
-[13:10:14] [Server thread/INFO]: <malefic_music> man, i suck at this game
-[13:10:18] [Server thread/INFO]: <malevtuber> it's oke
-[13:10:22] [Server thread/INFO]: <malevtuber> meant to turn weather to clear
-[13:10:24] [Server thread/INFO]: <malevtuber> my bad
-[13:10:41] [Server thread/INFO]: [malevtuber: Set own game mode to Survival Mode]
-[13:11:16] [Server thread/INFO]: <malefic_music> hilltop tavern.
-[13:11:27] [Server thread/INFO]: [malevtuber: Gave 64 [Steak] to 2]
-[13:11:36] [Server thread/INFO]: <malevtuber> steak seems okay
-[13:11:42] [Server thread/INFO]: <malevtuber> nothing else tho
-[13:11:46] [Server thread/INFO]: <malefic_music> we have the meats!
-[13:12:01] [Server thread/INFO]: <malevtuber> :OOOO PORTAL REMAINS I THINK
-[13:12:18] [Server thread/INFO]: <malevtuber> nevermind
-[13:12:20] [Server thread/INFO]: <malevtuber> dammit
-[13:13:14] [Server thread/INFO]: <malevtuber> I'ma go mining
-[13:13:18] [Server thread/INFO]: <malevtuber> lmk if u need anything :O
-[13:13:44] [Server thread/INFO]: <malefic_music> mostly gonna need stone, cobble, and wood.
-[13:13:47] [Server thread/INFO]: <malevtuber> kek
-[13:14:00] [Server thread/INFO]: <malevtuber> ooo I found a cave!!!
-[13:15:14] [Server thread/INFO]: <malefic_music> ooh!
-[13:15:17] [Server thread/INFO]: <malevtuber> ??
-[13:15:36] [Server thread/INFO]: <malefic_music> cave do go hard tho
-[13:15:44] [Server thread/INFO]: <malevtuber> dude I love caves haha
-[13:15:58] [Server thread/INFO]: [malevtuber: Gave 32 [Oak Wood] to malevtuber]
-[13:17:28] [Server thread/INFO]: [malevtuber: Set spawn point to 1143, 69, 10247 [0.0] in minecraft:overworld for malevtuber]
-[13:17:50] [Server thread/INFO]: <malevtuber> lol instead of /home I'm going to use /spawnpoint and /kill
-[13:18:02] [Server thread/INFO]: malevtuber fell out of the world
-[13:18:02] [Server thread/INFO]: [malevtuber: Killed malevtuber]
-[13:18:09] [Server thread/INFO]: <malevtuber> worked like a charm
-[13:19:43] [Server thread/INFO]: <malevtuber> i killed a wabbit
-[13:19:45] [Server thread/INFO]: <malevtuber> ;(
-[13:20:53] [Server thread/INFO]: malefic_music has made the advancement [Monster Hunter]
-[13:21:03] [Server thread/INFO]: malevtuber was slain by Zombie
-[13:21:07] [Server thread/INFO]: <malevtuber> FUCK
-[13:21:13] [Server thread/INFO]: <malevtuber> I FOUND AN IGLOO
-[13:21:15] [Server thread/INFO]: <malefic_music> f
-[13:21:29] [Server thread/INFO]: <malevtuber> nvm it is right next to my home hahahah
-[13:21:47] [Server thread/INFO]: <malevtuber> oooo
-[13:22:00] [Server thread/INFO]: <malevtuber> lena raine music started playing
-[13:22:56] [Server thread/INFO]: [malevtuber: Set the time to 1000]
-[13:23:00] [Server thread/INFO]: <malevtuber> you need to get a bed haha
-[13:23:07] [Server thread/INFO]: <malefic_music> i trapped myself in a hole.
-[13:23:14] [Server thread/INFO]: <malevtuber> lol
-[13:23:23] [Server thread/INFO]: <malefic_music> im good until sunrise
-[13:23:26] [Server thread/INFO]: <malevtuber> CREEPER
-[13:23:28] [Server thread/INFO]: <malevtuber> AW MAN
-[13:23:31] [Server thread/INFO]: <malevtuber> it's day btw
-[13:23:33] [Server thread/INFO]: <malefic_music> AWW MAN
-[13:24:19] [Server thread/INFO]: <malefic_music> LIES!
-[13:24:46] [Server thread/INFO]: [malevtuber: Summoned new Giant]
-[13:24:53] [Server thread/INFO]: <malefic_music> THERE'S STILL ZOMBIES AND ENDERMEN OUT HERE
-[13:24:56] [Server thread/INFO]: <malevtuber> malefic
-[13:24:58] [Server thread/INFO]: <malevtuber> hold on
-[13:25:01] [Server thread/INFO]: [malevtuber: Teleported malevtuber to malefic_music]
-[13:25:06] [Server thread/INFO]: <malevtuber> wait
-[13:25:08] [Server thread/INFO]: <malevtuber> stay there
-[13:25:16] [Server thread/INFO]: [malevtuber: Summoned new Giant]
-[13:25:32] [Server thread/INFO]: <malevtuber> he is my child
-[13:25:47] [Server thread/INFO]: <malefic_music> das a big boi!
-[13:25:47] [Server thread/INFO]: <malevtuber> idk why he isn't doing anything
-[13:25:58] [Server thread/INFO]: <malefic_music> giants have no ai
-[13:26:05] [Server thread/INFO]: <malevtuber> they used to haha
-[13:26:37] [Server thread/INFO]: <malevtuber> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW
-[13:26:40] [Server thread/INFO]: <malevtuber> MY CHILDDDDDDDDDDDDDDDDDDDDDDDD
-[13:26:53] [Server thread/INFO]: <malevtuber> F
-[13:27:00] [Server thread/INFO]: <malefic_music> big f
-[13:27:06] [Server thread/INFO]: malefic_music was slain by malevtuber
-[13:27:10] [Server thread/INFO]: <malevtuber> lol
-[13:27:14] [Server thread/INFO]: <malefic_music> ouch
-[13:27:16] [Server thread/INFO]: [malevtuber: Teleported 2 entities to malevtuber]
-[13:27:25] [Server thread/INFO]: <malevtuber> keepinventory is on
-[13:28:05] [Server thread/INFO]: <malevtuber> new squid sounds???
-[13:30:08] [Server thread/INFO]: <malevtuber> ooo I found icebergs!!!
-[13:30:22] [Server thread/INFO]: <malevtuber> can u tame polar bears???
-[13:30:22] [Server thread/INFO]: <malefic_music> keep em away from my boat!
-[13:30:28] [Server thread/INFO]: <malevtuber> lololol
-[13:30:31] [Server thread/INFO]: <malefic_music> i think so???
-[13:30:43] [Server thread/INFO]: <malevtuber> :O
-[13:30:56] [Server thread/INFO]: [malevtuber: Gave 64 [Raw Salmon] to malevtuber]
-[13:30:56] [Server thread/INFO]: <malefic_music> i think you use fish
-[13:32:03] [Server thread/INFO]: [malevtuber: Gave 64 [Raw Cod] to malevtuber]
-[13:33:02] [Server thread/INFO]: <malevtuber> it won't let me ;(
-[13:33:18] [Server thread/INFO]: <malefic_music> sadge
-[13:33:24] [Server thread/INFO]: <malevtuber> even got salmon
-[13:33:42] [Server thread/INFO]: Villager bne['Villager'/10172, l='ServerLevel[world]', x=589.72, y=68.00, z=10185.63] died, message: 'Villager suffocated in a wall'
-[13:33:49] [Server thread/INFO]: <malevtuber> YOOO
-[13:33:52] [Server thread/INFO]: <malevtuber> VILLAGE!!!
-[13:34:05] [Server thread/INFO]: malevtuber has made the advancement [Sweet Dreams]
-[13:35:14] [Server thread/INFO]: <malevtuber> I SEE KITTY!!!!!!
-[13:36:05] [Server thread/INFO]: <malefic_music> I WANT IT!
-[13:36:09] [Server thread/INFO]: <malevtuber> 2 bad
-[13:36:11] [Server thread/INFO]: <malevtuber> it's mine
-[13:36:39] [Server thread/INFO]: malevtuber has made the advancement [Best Friends Forever]
-[13:36:42] [Server thread/INFO]: <malevtuber> YESSSSSSSSSSSS
-[13:36:45] [Server thread/INFO]: <malevtuber> KITTYYYYYYYY
-[13:37:19] [Server thread/INFO]: [malevtuber: Gave 1 [Name Tag] to malevtuber]
-[13:37:28] [Server thread/INFO]: [malevtuber: Gave 1 [Anvil] to malevtuber]
-[13:37:54] [Server thread/INFO]: <malevtuber> beautiful
-[13:38:31] [Server thread/INFO]: [malevtuber: Teleported malevtuber to malefic_music]
-[13:38:43] [Server thread/INFO]: <malevtuber> where's da cat???
-[13:39:11] [Server thread/INFO]: <malevtuber> i named it my discord kitten
-[13:39:13] [Server thread/INFO]: <malevtuber> lmao
-[13:39:15] [Server thread/INFO]: <malefic_music> XD
-[13:39:22] [Server thread/INFO]: <malefic_music> lfmao
-[13:39:55] [Server thread/INFO]: malefic_music was slain by Zombie
-[13:40:05] [Server thread/INFO]: malevtuber was slain by Zombie
-[13:40:11] [Server thread/INFO]: <malefic_music> i REALLY need a bed
-[13:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[13:40:18] [Server thread/INFO]: <malevtuber> IS MY CAT OKAY???
-[13:40:28] [Server thread/INFO]: [malevtuber: Teleported malevtuber to malefic_music]
-[13:40:36] [Server thread/INFO]: <malefic_music> don't know. i died too
-[13:40:37] [Server thread/INFO]: <malevtuber> WHHH
-[13:40:42] [Server thread/INFO]: <malevtuber> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[13:40:55] [Server thread/INFO]: <malefic_music> it should still be where you left it sitting
-[13:41:21] [Server thread/INFO]: <malevtuber> fucking idiot AI lmao
-[13:41:44] [Server thread/INFO]: malevtuber fell out of the world
-[13:41:44] [Server thread/INFO]: [malevtuber: Killed malevtuber]
-[13:41:44] [Server thread/INFO]: <malefic_music> actually, this looks like a beautiful place for a tavern
-[13:41:57] [Server thread/INFO]: [malevtuber: Set own game mode to Creative Mode]
-[13:42:09] [Server thread/INFO]: malevtuber has made the advancement [Ice Bucket Challenge]
-[13:42:16] [Server thread/INFO]: malevtuber has made the advancement [Suit Up]
-[13:43:17] [Server thread/INFO]: <malevtuber> I HEAR ANOTHER KITTEN
-[13:43:30] [Server thread/INFO]: <malevtuber> :DDDDD
-[13:44:14] [Server thread/INFO]: [malevtuber: Teleported malevtuber to malefic_music]
-[13:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=107, y=65, z=287} gh{x=105, y=63, z=286}
-[13:44:41] [Server thread/INFO]: <malevtuber> WTF WHERE IS KITTY
-[13:44:54] [Server thread/INFO]: <malefic_music> land
-[13:45:02] [Server thread/INFO]: malevtuber fell out of the world
-[13:45:02] [Server thread/INFO]: [malevtuber: Killed malevtuber]
-[13:45:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[13:45:14] [Server thread/INFO]: <malevtuber> :O
-[13:45:16] [Server thread/INFO]: <malevtuber> i see him!
-[13:45:17] [Server thread/INFO]: <malefic_music> i guess that works too
-[13:45:22] [Server thread/INFO]: [malevtuber: Teleported malevtuber to malefic_music]
-[13:45:32] [Server thread/INFO]: <malevtuber> kitty!!!!!!
-[13:45:34] [Server thread/INFO]: <malevtuber> :OOO
-[13:45:42] [Server thread/INFO]: <malevtuber> plz don't leave me kitte
-[13:45:51] [Server thread/INFO]: <malevtuber> i love u
-[13:46:29] [Server thread/INFO]: <malevtuber> oki I log off now
-[13:46:34] [Server thread/INFO]: <malefic_music> oki
-[13:46:36] [Server thread/INFO]: [malevtuber: Set spawn point to 110, 64, 285 [0.0] in minecraft:overworld for malevtuber]
-[13:46:40] [Server thread/INFO]: malevtuber lost connection: Disconnected
-[13:46:40] [Server thread/INFO]: malevtuber left the game
-[13:50:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=104, y=64, z=270} gh{x=106, y=63, z=269}
-[13:54:18] [Server thread/INFO]: malefic_music has made the advancement [Sweet Dreams]
-[13:54:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:54:41] [Server thread/INFO]: /mo/save<--[HERE]
-[13:54:44] [Server thread/INFO]: /advancement (grant|revoke)
-[13:54:44] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[13:54:44] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[13:54:44] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[13:54:44] [Server thread/INFO]: /clear [<targets>]
-[13:54:44] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[13:54:44] [Server thread/INFO]: /data (merge|get|remove|modify)
-[13:54:44] [Server thread/INFO]: /datapack (enable|disable|list)
-[13:54:44] [Server thread/INFO]: /debug (start|stop|function)
-[13:54:44] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
-[13:54:44] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[13:54:44] [Server thread/INFO]: /effect (clear|give)
-[13:54:44] [Server thread/INFO]: /me <action>
-[13:54:44] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[13:54:44] [Server thread/INFO]: /experience (add|set|query)
-[13:54:44] [Server thread/INFO]: /xp -> experience
-[13:54:44] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[13:54:44] [Server thread/INFO]: /forceload (add|remove|query)
-[13:54:44] [Server thread/INFO]: /function <name>
-[13:54:44] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
-[13:54:44] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[13:54:44] [Server thread/INFO]: /give <targets> <item> [<count>]
-[13:54:44] [Server thread/INFO]: /help [<command>]
-[13:54:44] [Server thread/INFO]: /item (replace|modify)
-[13:54:44] [Server thread/INFO]: /kick <targets> [<reason>]
-[13:54:44] [Server thread/INFO]: /kill [<targets>]
-[13:54:44] [Server thread/INFO]: /list [uuids]
-[13:54:44] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
-[13:54:44] [Server thread/INFO]: /locatebiome <biome>
-[13:54:44] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[13:54:44] [Server thread/INFO]: /msg <targets> <message>
-[13:54:44] [Server thread/INFO]: /tell -> msg
-[13:54:44] [Server thread/INFO]: /w -> msg
-[13:54:44] [Server thread/INFO]: /particle <name> [<pos>]
-[13:54:44] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[13:54:44] [Server thread/INFO]: /reload
-[13:54:44] [Server thread/INFO]: /recipe (give|take)
-[13:54:44] [Server thread/INFO]: /say <message>
-[13:54:44] [Server thread/INFO]: /schedule (function|clear)
-[13:54:44] [Server thread/INFO]: /scoreboard (objectives|players)
-[13:54:44] [Server thread/INFO]: /seed
-[13:54:44] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[13:54:44] [Server thread/INFO]: /spawnpoint [<targets>]
-[13:54:44] [Server thread/INFO]: /setworldspawn [<pos>]
-[13:54:44] [Server thread/INFO]: /spectate [<target>]
-[13:54:44] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[13:54:44] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[13:54:44] [Server thread/INFO]: /summon <entity> [<pos>]
-[13:54:44] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[13:54:44] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[13:54:44] [Server thread/INFO]: /teammsg <message>
-[13:54:44] [Server thread/INFO]: /tm -> teammsg
-[13:54:44] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[13:54:44] [Server thread/INFO]: /tp -> teleport
-[13:54:44] [Server thread/INFO]: /tellraw <targets> <message>
-[13:54:44] [Server thread/INFO]: /time (set|add|query)
-[13:54:44] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[13:54:44] [Server thread/INFO]: /trigger <objective> [add|set]
-[13:54:44] [Server thread/INFO]: /weather (clear|rain|thunder)
-[13:54:44] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[13:54:44] [Server thread/INFO]: /jfr (start|stop)
-[13:54:44] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[13:54:44] [Server thread/INFO]: /banlist [ips|players]
-[13:54:44] [Server thread/INFO]: /ban <targets> [<reason>]
-[13:54:44] [Server thread/INFO]: /deop <targets>
-[13:54:44] [Server thread/INFO]: /op <targets>
-[13:54:44] [Server thread/INFO]: /pardon <targets>
-[13:54:44] [Server thread/INFO]: /pardon-ip <target>
-[13:54:44] [Server thread/INFO]: /perf (start|stop)
-[13:54:44] [Server thread/INFO]: /save-all [flush]
-[13:54:44] [Server thread/INFO]: /save-off
-[13:54:44] [Server thread/INFO]: /save-on
-[13:54:44] [Server thread/INFO]: /setidletimeout <minutes>
-[13:54:44] [Server thread/INFO]: /stop
-[13:54:44] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[13:54:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:54:46] [Server thread/INFO]: /save all<--[HERE]
-[13:54:49] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:54:49] [Server thread/INFO]: Saved the game
-[13:54:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:54:59] [Server thread/INFO]: hey I'm turning the server off for few minutes to do some updates<--[HERE]
-[13:55:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:55:04] [Server thread/INFO]: /say<--[HERE]
-[13:55:24] [Server thread/INFO]: An entity is required to run this command here
-[13:55:35] [Server thread/INFO]: An entity is required to run this command here
-[13:55:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:55:48] [Server thread/INFO]: /save_all<--[HERE]
-[13:55:53] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:55:53] [Server thread/INFO]: Saved the game
+[14:44:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:44:02] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[14:44:03] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:44:04] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[14:44:04] [Server thread/WARN]: ****************************
+[14:44:04] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[14:44:04] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[14:44:04] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[14:44:04] [Server thread/WARN]: ****************************
+[14:44:04] [Server thread/INFO]: Loading properties
+[14:44:04] [Server thread/INFO]: This server is running Paper version git-Paper-82 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: 8c5be16)
+[14:44:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:44:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:44:04] [Server thread/INFO]: Default game type: SURVIVAL
+[14:44:04] [Server thread/INFO]: Generating keypair
+[14:44:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:44:05] [Server thread/INFO]: Using epoll channel type
+[14:44:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:44:05] [Server thread/INFO]: Paper: Using OpenSSL 1.0.x (Linux x86_64) cipher from Velocity.
+[14:44:05] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:44:11] [Server thread/WARN]: Legacy plugin SetSpawn v3.6 does not specify an api-version.
+[14:44:11] [Server thread/INFO]: [AdminFun] Loading AdminFun v2.7.1
+[14:44:11] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.6
+[14:44:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.0.0-SNAPSHOT
+[14:44:11] [Server thread/INFO]: [BetterRTP] Loading BetterRTP v3.2.1-4
+[14:44:11] [Server thread/INFO]: [StormerHomes] Loading StormerHomes v0.0.2
+[14:44:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:44:11] [Server thread/INFO]: Preparing level "world"
+[14:44:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:14] [Server thread/INFO]: Time elapsed: 2280 ms
+[14:44:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:44:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:16] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:16] [Server thread/INFO]: Time elapsed: 2123 ms
+[14:44:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:18] [Server thread/INFO]: Time elapsed: 1334 ms
+[14:44:18] [Server thread/INFO]: [AdminFun] Enabling AdminFun v2.7.1
+[14:44:19] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.6*
+[14:44:19] [Server thread/INFO]: [SetSpawn] Enabled!
+[14:44:19] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.0.0-SNAPSHOT
+[14:44:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:44:19] [Server thread/INFO]: [Geyser-Spigot] 
+[14:44:19] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.0.0-SNAPSHOT (git-master-6eb069c)
+[14:44:19] [Server thread/INFO]: [Geyser-Spigot] 
+[14:44:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:44:22] [Network Listener - #3/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[14:44:23] [Server thread/INFO]: [Geyser-Spigot] Done (3.356s)! Run /geyser help for help!
+[14:44:23] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.2.1-4
+[14:44:23] [Server thread/INFO]: [StormerHomes] Enabling StormerHomes v0.0.2
+[14:44:23] [Server thread/INFO]: [StormerHomes] [STDOUT] malefic_music.Home
+[14:44:23] [Server thread/WARN]: Nag author(s): '[stormer3428]' of 'StormerHomes' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[14:44:23] [Server thread/INFO]: [StormerHomes] [STDOUT] Created home
+[14:44:23] [Server thread/INFO]: [StormerHomes] [STDOUT] [Home {Location{world=CraftWorld{name=world},x=109.31877030082518,y=64.0,z=289.4003492687201,pitch=13.649469,yaw=-43.18448},malefic_music,Home}]
+[14:44:23] [Server thread/INFO]: [StormerHomes] [STDOUT] malevtuber.Home
+[14:44:23] [Server thread/INFO]: [StormerHomes] [STDOUT] Created home
+[14:44:23] [Server thread/INFO]: [StormerHomes] [STDOUT] [Home {Location{world=CraftWorld{name=world},x=253.08557368258357,y=-31.0,z=-764.9494022569345,pitch=10.200009,yaw=29.09997},malevtuber,Home}]
+[14:44:23] [Server thread/INFO]: Running delayed init tasks
+[14:44:23] [Server thread/INFO]: Done (18.958s)! For help, type "help"
+[14:44:23] [Server thread/INFO]: Timings Reset
+[14:45:36] [User Authenticator #1/INFO]: UUID of player malevtuber is 59ac4b1a-b22b-4314-a985-85015b1b7cfd
+[14:45:36] [Server thread/INFO]: malevtuber joined the game
+[14:45:36] [Server thread/INFO]: malevtuber[/68.23.68.50:50627] logged in with entity id 142 at ([world]253.94900338239378, -31.0, -765.4182403908316)
+[14:45:48] [Server thread/INFO]: malevtuber issued server command: /spawn
+[14:45:59] [Server thread/INFO]: malevtuber issued server command: /tp 0 ~ 0
+[14:45:59] [Server thread/INFO]: [malevtuber: Teleported malevtuber to 0.500000, -30.437500, 0.500000]
+[14:46:05] [Server thread/INFO]: malevtuber issued server command: /gamemode spectator
+[14:46:05] [Server thread/INFO]: [malevtuber: Set own game mode to Spectator Mode]
+[14:46:47] [Server thread/INFO]: malevtuber issued server command: /tp 0 30 0
+[14:46:47] [Server thread/INFO]: [malevtuber: Teleported malevtuber to 0.500000, 30.000000, 0.500000]
+[14:47:55] [Server thread/INFO]: malevtuber issued server command: /execute in overworld tp ~ ~ ~
+[14:48:03] [Server thread/INFO]: malevtuber issued server command: /execute in overworld tp ~ ~ ~
+[14:48:36] [Server thread/INFO]: malevtuber issued server command: /execute in minecraft:overworld run tp malevtuber ~ ~ ~
+[14:48:36] [Server thread/INFO]: [malevtuber: Teleported malevtuber to 20.136471, 85.489360, 91.735954]
+[14:48:42] [Server thread/INFO]: malevtuber issued server command: /execute in minecraft:overworld run tp malevtuber 0 0 0
+[14:48:42] [Server thread/INFO]: [malevtuber: Teleported malevtuber to 0.500000, 0.000000, 0.500000]
+[14:48:56] [Server thread/INFO]: malevtuber issued server command: /home
+[14:49:01] [Server thread/INFO]: malevtuber issued server command: /gamemode creative
+[14:49:01] [Server thread/INFO]: [malevtuber: Set own game mode to Creative Mode]
+[14:49:17] [Server thread/INFO]: malevtuber issued server command: /kill
+[14:49:17] [Server thread/ERROR]: Could not pass event EntityDamageByBlockEvent to SetSpawn v3.6
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[commons-lang-2.6.jar:2.6]
+	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.getWorld(CraftServer.java:1323) ~[paper-1.18.1.jar:git-Paper-82]
+	at Events.OnVoidDamage.onDamage(OnVoidDamage.java:27) ~[SetSpawn.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor9.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-82]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.callEvent(CraftEventFactory.java:247) ~[paper-1.18.1.jar:git-Paper-82]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1002) ~[paper-1.18.1.jar:git-Paper-82]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:954) ~[paper-1.18.1.jar:git-Paper-82]
+	at org.bukkit.craftbukkit.v1_18_R1.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1154) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.world.entity.LivingEntity.damageEntity0(LivingEntity.java:2055) ~[?:?]
+	at net.minecraft.world.entity.player.Player.damageEntity0(Player.java:1016) ~[?:?]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1345) ~[?:?]
+	at net.minecraft.world.entity.player.Player.hurt(Player.java:923) ~[?:?]
+	at net.minecraft.server.level.ServerPlayer.hurt(ServerPlayer.java:1027) ~[?:?]
+	at net.minecraft.world.entity.LivingEntity.kill(LivingEntity.java:317) ~[?:?]
+	at net.minecraft.server.commands.KillCommand.kill(KillCommand.java:32) ~[?:?]
+	at net.minecraft.server.commands.KillCommand.lambda$register$1(KillCommand.java:22) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263) ~[paper-1.18.1.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:177) ~[paper-1.18.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:291) ~[?:?]
+	at org.bukkit.craftbukkit.v1_18_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45) ~[paper-1.18.1.jar:git-Paper-82]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.dispatchCommand(CraftServer.java:876) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2268) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2079) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2060) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1413) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:189) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1391) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1384) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1362) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1268) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-82]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:49:17] [Server thread/INFO]: malevtuber fell out of the world
+[14:49:17] [Server thread/INFO]: [malevtuber: Killed malevtuber]
+[14:49:19] [Server thread/WARN]: [SetSpawn] Task #7 for SetSpawn v3.6 generated an exception
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[commons-lang-2.6.jar:2.6]
+	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.getWorld(CraftServer.java:1323) ~[paper-1.18.1.jar:git-Paper-82]
+	at Events.OnRespawn$1.run(OnRespawn.java:43) ~[SetSpawn.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.1.jar:git-Paper-82]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1547) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-82]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-82]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:54:40] [Server thread/INFO]: Stopping server
+[14:54:40] [Server thread/INFO]: [StormerHomes] Disabling StormerHomes v0.0.2
+[14:54:40] [Server thread/INFO]: [BetterRTP] Disabling BetterRTP v3.2.1-4
+[14:54:40] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.0.0-SNAPSHOT
+[14:54:40] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[14:54:40] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[14:54:40] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.6
+[14:54:40] [Server thread/INFO]: [SetSpawn] Disabled!
+[14:54:40] [Server thread/INFO]: [AdminFun] Disabling AdminFun v2.7.1
+[14:54:40] [Server thread/INFO]: Saving players
+[14:54:40] [Server thread/INFO]: malevtuber lost connection: Server closed
+[14:54:40] [Server thread/INFO]: malevtuber left the game

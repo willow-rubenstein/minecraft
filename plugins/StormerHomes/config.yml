@@ -1,0 +1,19 @@
+maxHomes: 3
+maxOpHomes: -1
+homes:
+  malevtuber:
+    Home:
+      x: 253.08557368258357
+      y: -31.0
+      z: -764.9494022569345
+      yaw: 29.09997
+      pitch: 10.200009
+      world: world
+  malefic_music:
+    Home:
+      x: 109.31877030082518
+      y: 64.0
+      z: 289.4003492687201
+      yaw: -43.18448
+      pitch: 13.649469
+      world: world
