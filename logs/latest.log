@@ -1,161 +1,35 @@
-[15:08:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:08:55] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[15:08:56] [Worker-Main-1/INFO]: Loaded 7 recipes
-[15:08:57] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[15:08:57] [Server thread/WARN]: ****************************
-[15:08:57] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[15:08:57] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[15:08:57] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[15:08:57] [Server thread/WARN]: ****************************
-[15:08:57] [Server thread/INFO]: Loading properties
-[15:08:57] [Server thread/INFO]: This server is running Paper version git-Paper-82 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: 8c5be16)
-[15:08:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:08:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:08:57] [Server thread/INFO]: Default game type: SURVIVAL
-[15:08:57] [Server thread/INFO]: Generating keypair
-[15:08:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:08:58] [Server thread/INFO]: Using epoll channel type
-[15:08:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:08:58] [Server thread/INFO]: Paper: Using OpenSSL 1.0.x (Linux x86_64) cipher from Velocity.
-[15:08:58] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[15:09:03] [Server thread/WARN]: Legacy plugin BetterChat v1.0 does not specify an api-version.
-[15:09:04] [Server thread/WARN]: Legacy plugin SetSpawn v3.6 does not specify an api-version.
-[15:09:04] [Server thread/WARN]: Legacy plugin NickNames v2.3 does not specify an api-version.
-[15:09:04] [Server thread/INFO]: [dynmap] Loading dynmap v3.3-beta-3-591
-[15:09:04] [Server thread/INFO]: [dynmap] version=git-Paper-82 (MC: 1.18.1)
-[15:09:04] [Server thread/INFO]: [dynmap] Mod Support API available
-[15:09:04] [Server thread/INFO]: [BetterChat] Loading BetterChat v1.0
-[15:09:04] [Server thread/INFO]: [AdminFun] Loading AdminFun v2.7.1
-[15:09:04] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.6
-[15:09:04] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.0.0-SNAPSHOT
-[15:09:04] [Server thread/INFO]: [NickNames] Loading NickNames v2.3
-[15:09:04] [Server thread/INFO]: [BetterRTP] Loading BetterRTP v3.2.1-4
-[15:09:04] [Server thread/INFO]: [StormerHomes] Loading StormerHomes v0.0.2
-[15:09:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:09:04] [Server thread/INFO]: Preparing level "world"
-[15:09:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:06] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:06] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:06] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:07] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:07] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:08] [Server thread/INFO]: Time elapsed: 2493 ms
-[15:09:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:09:08] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:08] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:09] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:09] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:10] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:10] [Server thread/INFO]: Time elapsed: 2348 ms
-[15:09:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:09:10] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:10] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:11] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:11] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[15:09:11] [Server thread/INFO]: Time elapsed: 1542 ms
-[15:09:11] [Server thread/INFO]: [dynmap] Enabling dynmap v3.3-beta-3-591
-[15:09:12] [Server thread/INFO]: [dynmap] Added 18 custom biome mappings
-[15:09:12] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[15:09:12] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[15:09:12] [Server thread/INFO]: [dynmap] Extracted files upgraded
-[15:09:12] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[15:09:13] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
-[15:09:13] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[15:09:13] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[15:09:13] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[15:09:13] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[15:09:14] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[15:09:14] [Server thread/INFO]: [dynmap] version 3.3-beta-3-591 is enabled - core version 3.3-beta-3-591
-[15:09:14] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
-[15:09:14] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[15:09:14] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[15:09:14] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[15:09:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[15:09:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[15:09:14] [Server thread/INFO]: [dynmap] Enabled
-[15:09:14] [Server thread/INFO]: [BetterChat] Enabling BetterChat v1.0*
-[15:09:14] [Server thread/INFO]: Better Chat v1.0 has been ENABLED!
-[15:09:14] [Server thread/INFO]: Better Chat v1.0 Created by winjw7
-[15:09:14] [Server thread/INFO]: [AdminFun] Enabling AdminFun v2.7.1
-[15:09:14] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.6*
-[15:09:14] [Server thread/INFO]: [SetSpawn] Enabled!
-[15:09:14] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.0.0-SNAPSHOT
-[15:09:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[15:09:15] [Server thread/INFO]: [Geyser-Spigot] 
-[15:09:15] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.0.0-SNAPSHOT (git-master-6eb069c)
-[15:09:15] [Server thread/INFO]: [Geyser-Spigot] 
-[15:09:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[15:09:18] [Network Listener - #3/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
-[15:09:18] [Server thread/INFO]: [Geyser-Spigot] Done (3.642s)! Run /geyser help for help!
-[15:09:19] [Server thread/INFO]: [NickNames] Enabling NickNames v2.3*
-[15:09:19] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.2.1-4
-[15:09:19] [Server thread/INFO]: [StormerHomes] Enabling StormerHomes v0.0.2
-[15:09:19] [Server thread/INFO]: [StormerHomes] [STDOUT] malefic_music.Home
-[15:09:19] [Server thread/WARN]: Nag author(s): '[stormer3428]' of 'StormerHomes' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[15:09:19] [Server thread/INFO]: [StormerHomes] [STDOUT] Created home
-[15:09:19] [Server thread/INFO]: [StormerHomes] [STDOUT] [Home {Location{world=CraftWorld{name=world},x=109.31877030082518,y=64.0,z=289.4003492687201,pitch=13.649469,yaw=-43.18448},malefic_music,Home}]
-[15:09:19] [Server thread/INFO]: [StormerHomes] [STDOUT] malevtuber.Home
-[15:09:19] [Server thread/INFO]: [StormerHomes] [STDOUT] Created home
-[15:09:19] [Server thread/INFO]: [StormerHomes] [STDOUT] [Home {Location{world=CraftWorld{name=world},x=253.08557368258357,y=-31.0,z=-764.9494022569345,pitch=10.200009,yaw=29.09997},malevtuber,Home}]
-[15:09:19] [Server thread/INFO]: Running delayed init tasks
-[15:09:19] [Server thread/INFO]: Done (21.945s)! For help, type "help"
-[15:09:19] [Server thread/INFO]: Timings Reset
-[15:11:54] [User Authenticator #1/INFO]: UUID of player malevtuber is 59ac4b1a-b22b-4314-a985-85015b1b7cfd
-[15:11:55] [Server thread/INFO]: malevtuber joined the game
-[15:11:55] [Server thread/INFO]: malevtuber[/68.23.68.50:53371] logged in with entity id 253 at ([world]93.99339165240704, 67.11504987705939, 283.0893498690043)
-[15:12:47] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[15:14:48] [Server thread/INFO]: malevtuber issued server command: /dynmap fullrender
-[15:15:54] [Server thread/INFO]: [WEB] malevtuber: hello?
-[15:16:01] [Server thread/INFO]: [WEB] malevtuber: wh?
-[15:16:55] [Server thread/INFO]: malevtuber issued server command: /help
-[15:16:57] [Server thread/INFO]: malevtuber issued server command: /help betterchat
-[15:17:00] [Server thread/INFO]: malevtuber issued server command: /betterchat
-[15:17:03] [Server thread/INFO]: malevtuber issued server command: /betterchat cmdlist
-[15:17:25] [Async Chat Thread - #0/INFO]: <malevtuber> test
-[15:17:32] [Server thread/INFO]: malevtuber issued server command: /betterchat CreateTag femboy
-[15:17:41] [Server thread/INFO]: malevtuber issued server command: /betterchat SetTag @a femboy
-[15:19:03] [Server thread/INFO]: malevtuber issued server command: /weather set clear
-[15:19:05] [Server thread/INFO]: malevtuber issued server command: /weather clear
-[15:19:05] [Server thread/INFO]: [malevtuber: Set the weather to clear]
-[15:23:41] [Async Chat Thread - #1/INFO]: <malevtuber> oh boi
-[15:25:38] [Async Chat Thread - #2/INFO]: <malevtuber> this is going to be a minute
-[15:26:57] [Server thread/INFO]: malevtuber issued server command: /home
-[15:28:07] [Server thread/INFO]: malevtuber issued server command: /effect give malevtuber night_vision 1000000 100 true
-[15:28:07] [Server thread/INFO]: [malevtuber: Applied effect Night Vision to malevtuber]
-[15:37:30] [Server thread/INFO]: malevtuber issued server command: /effect give malevtuber night_vision 1000000 100 true
-[15:37:30] [Server thread/INFO]: [malevtuber: Applied effect Night Vision to malevtuber]
-[15:46:31] [Server thread/INFO]: malevtuber issued server command: /effect give malevtuber night_vision 1000000 100 true
-[15:46:31] [Server thread/INFO]: [malevtuber: Applied effect Night Vision to malevtuber]
-[16:05:24] [Server thread/INFO]: malevtuber issued server command: /dynmap
-[16:05:35] [Server thread/INFO]: malevtuber issued server command: /dynmap cancelrender
-[16:05:38] [Async Chat Thread - #3/INFO]: <malevtuber> jesus
-[16:05:40] [Server thread/INFO]: malevtuber lost connection: Disconnected
-[16:05:40] [Server thread/INFO]: malevtuber left the game
-[16:06:22] [Server thread/INFO]: Stopping server
-[16:06:22] [Server thread/INFO]: [StormerHomes] Disabling StormerHomes v0.0.2
-[16:06:22] [Server thread/INFO]: [BetterRTP] Disabling BetterRTP v3.2.1-4
-[16:06:22] [Server thread/INFO]: [NickNames] Disabling NickNames v2.3
-[16:06:22] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.0.0-SNAPSHOT
-[16:06:22] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[16:06:22] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[16:06:22] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.6
-[16:06:22] [Server thread/INFO]: [SetSpawn] Disabled!
-[16:06:22] [Server thread/INFO]: [AdminFun] Disabling AdminFun v2.7.1
-[16:06:22] [Server thread/INFO]: [BetterChat] Disabling BetterChat v1.0
-[16:06:22] [Server thread/INFO]: Better Chat v1.0 has been DISABLED!
-[16:06:22] [Server thread/INFO]: [dynmap] Disabling dynmap v3.3-beta-3-591
-[16:06:22] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[16:06:22] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[16:06:23] [Server thread/INFO]: [dynmap] Disabled
-[16:06:23] [Server thread/INFO]: Saving players
-[16:06:23] [Server thread/INFO]: Saving worlds
-[16:06:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:06:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:06:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:06:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:06:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:06:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:06:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:06:23] [Server thread/INFO]: Flushing Chunk IO
-[16:06:23] [Server thread/INFO]: Closing Thread Pool
-[16:06:23] [Server thread/INFO]: Closing Server
+[03:20:25] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:111) ~[paper-1.18.1.jar:git-Paper-82]
+Caused by: java.io.IOException: Input/output error
+	at java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:228) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[03:20:25] [Server thread/INFO]: Stopping server
+[03:20:25] [Server thread/INFO]: Better Chat v1.0 has been DISABLED!
+[03:20:25] [Server thread/INFO]: Saving players
+[03:20:25] [Server thread/INFO]: Saving worlds
+[03:20:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:20:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:20:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:20:26] [Server thread/INFO]: Flushing Chunk IO
+[03:20:26] [Server thread/INFO]: Closing Thread Pool
+[03:20:26] [Server thread/INFO]: Closing Server

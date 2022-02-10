@@ -9,11 +9,124 @@ homes:
       yaw: 29.09997
       pitch: 10.200009
       world: world
+    '2': ''
+    althome:
+      x: 103.08390438934676
+      y: -4.0
+      z: -884.3618638844309
+      yaw: -104.55185
+      pitch: -2.8498297
+      world: world
+    end:
+      x: -563.2191985410255
+      y: 63.0
+      z: 243.58135335683747
+      yaw: -102.49693
+      pitch: 17.999952
+      world: world
+    overworld_village:
+      x: -19.784948110772177
+      y: 71.0
+      z: 244.5977346909134
+      yaw: -55.32843
+      pitch: 20.699944
+      world: world
+    oakforest:
+      x: 860.1431716938208
+      y: 64.0
+      z: 281.06536182394524
+      yaw: -103.04114
+      pitch: 28.650017
+      world: world
+    dripstonecave:
+      x: 71.43807529902735
+      y: -23.0
+      z: 369.0940070313612
+      yaw: -67.22754
+      pitch: 41.249947
+      world: world
+    portal:
+      x: 39.762650086199265
+      y: 34.0
+      z: -87.84513415997287
+      yaw: 76.50003
+      pitch: 11.549923
+      world: world_nether
+    storehouse:
+      x: 275.67442861356517
+      y: -30.0
+      z: -728.7953734026091
+      yaw: -6.449341
+      pitch: 9.899962
+      world: world
+    megalovania:
+      x: 24.772556084251
+      y: 71.0
+      z: 273.02767707546013
+      yaw: -98.903366
+      pitch: 23.549911
+      world: world
   malefic_music:
     Home:
-      x: 109.31877030082518
+      x: 113.66498107369048
+      y: 76.0
+      z: 280.9449647567392
+      yaw: 130.36943
+      pitch: 35.549217
+      world: world
+  lily_rose_senpai:
+    Home:
+      x: -7.937814186025441
+      y: 63.0
+      z: 166.6316162762234
+      yaw: -149.42285
+      pitch: 13.3498535
+      world: world
+  Kachito_:
+    Home:
+      x: -42.303236294761575
+      y: 70.0
+      z: 226.69999998807907
+      yaw: 145.92554
+      pitch: 12.966738
+      world: world
+  otakublood:
+    Home:
+      x: 40.65047738080213
+      y: 34.0
+      z: 183.3646214555405
+      yaw: -92.09988
+      pitch: 33.90005
+      world: world
+  Quinniby:
+    Home:
+      x: -486.2162080811203
+      y: 63.0
+      z: 368.2428362634052
+      yaw: 28.796747
+      pitch: 23.999954
+      world: world
+  Lord_Spookerz:
+    Home:
+      x: 194.6168781964624
       y: 64.0
-      z: 289.4003492687201
-      yaw: -43.18448
-      pitch: 13.649469
+      z: 221.49408240958206
+      yaw: 172.7268
+      pitch: 17.699772
+      world: world
+    '2': ''
+    portal:
+      x: 759.3797831438802
+      y: 81.5
+      z: 197.16204173704327
+      yaw: 101.79835
+      pitch: 4.938621
+      world: world
+  Nuttynut05:
+    Home:
+      x: 191.8598323000638
+      y: 64.0
+      z: 218.43882366679233
+      yaw: -1.6360435
+      pitch: 30.300648
       world: world
